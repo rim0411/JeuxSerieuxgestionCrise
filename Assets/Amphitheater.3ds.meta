@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 5de484ea6c0105f42bb2ca8f1d64a00e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Deckf
+    100004: Deckf1
+    100006: Deckf10
+    100008: Deckf11
+    100010: Deckf12
+    100012: Deckf2
+    100014: Deckf3
+    100016: Deckf4
+    100018: Deckf5
+    100020: Deckf6
+    100022: Deckf7
+    100024: Deckf8
+    100026: Deckf9
+    100028: Deckfl_che
+    100030: Lathe
+    100032: Lathe-NURB
+    100034: Lathe1
+    100036: Lathe2
+    100038: Lathe3
+    100040: Lathe4
+    100042: Lathe5
+    400000: //RootNode
+    400002: Deckf
+    400004: Deckf1
+    400006: Deckf10
+    400008: Deckf11
+    400010: Deckf12
+    400012: Deckf2
+    400014: Deckf3
+    400016: Deckf4
+    400018: Deckf5
+    400020: Deckf6
+    400022: Deckf7
+    400024: Deckf8
+    400026: Deckf9
+    400028: Deckfl_che
+    400030: Lathe
+    400032: Lathe-NURB
+    400034: Lathe1
+    400036: Lathe2
+    400038: Lathe3
+    400040: Lathe4
+    400042: Lathe5
+    2300000: //RootNode
+    2300002: Deckf
+    2300004: Deckf1
+    2300006: Deckf10
+    2300008: Deckf11
+    2300010: Deckf12
+    2300012: Deckf2
+    2300014: Deckf3
+    2300016: Deckf4
+    2300018: Deckf5
+    2300020: Deckf6
+    2300022: Deckf7
+    2300024: Deckf8
+    2300026: Deckf9
+    2300028: Deckfl_che
+    2300030: Lathe
+    2300032: Lathe-NURB
+    2300034: Lathe1
+    2300036: Lathe2
+    2300038: Lathe3
+    2300040: Lathe4
+    2300042: Lathe5
+    3300000: //RootNode
+    3300002: Deckf
+    3300004: Deckf1
+    3300006: Deckf10
+    3300008: Deckf11
+    3300010: Deckf12
+    3300012: Deckf2
+    3300014: Deckf3
+    3300016: Deckf4
+    3300018: Deckf5
+    3300020: Deckf6
+    3300022: Deckf7
+    3300024: Deckf8
+    3300026: Deckf9
+    3300028: Deckfl_che
+    3300030: Lathe
+    3300032: Lathe-NURB
+    3300034: Lathe1
+    3300036: Lathe2
+    3300038: Lathe3
+    3300040: Lathe4
+    3300042: Lathe5
+    4300000: Amphitheat
+    4300002: Lathe-NURB
+    4300004: Deckfl_che
+    4300006: Deckf
+    4300008: Lathe
+    4300010: Deckf1
+    4300012: Deckf2
+    4300014: Lathe1
+    4300016: Deckf3
+    4300018: Deckf4
+    4300020: Lathe2
+    4300022: Deckf5
+    4300024: Deckf6
+    4300026: Lathe3
+    4300028: Deckf7
+    4300030: Deckf8
+    4300032: Lathe4
+    4300034: Deckf9
+    4300036: Deckf10
+    4300038: Lathe5
+    4300040: Deckf11
+    4300042: Deckf12
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
